@@ -1,0 +1,7 @@
+body {
+  background: aliceblue;
+}
+.active--step {
+  background: cornflowerblue;
+  color: black;
+}
